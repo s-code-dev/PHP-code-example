@@ -10,4 +10,5 @@ ___
 ____
 
 > Автор кода: -s
-> Почта: j.wind@internrt.ru
+__
+> Почта: j.wind@internet.ru
