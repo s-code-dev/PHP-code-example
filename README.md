@@ -1,13 +1,13 @@
-### Пример кода написанного на php: ####
+#### Example of code written in php:
 ___
 
-#### Использовал: HTML CSS JS PHP  ####
+#### Used: HTML CSS JS PHP 
 
 
-#### Cоздан свой мини-фреймворк, который упрощает работу со страницами сайта и делает сайт более легким.
+##### A mini-framework has been created, which simplifies working with site pages and makes the site lighter.
 
 ____
 
-> Автор кода: -s
+> Code Author: -s
 __
-> Почта: j.wind@list.ru
+> Mail: j.wind@list.ru
