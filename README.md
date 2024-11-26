@@ -8,6 +8,5 @@ ___
 
 ____
 
-> Code Author: -s
-__
-> Mail: j.wind@list.ru
+>> Автор кода: -s |
+>> Почта: ji.rain@mail.ru
